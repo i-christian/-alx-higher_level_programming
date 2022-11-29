@@ -1,8 +1,12 @@
 # Python Conditional Statments
 
-```if, elif, else
+```
+
+if, elif, else
 
 while loop
 
-for loop```
+for loop
+
+```
 
