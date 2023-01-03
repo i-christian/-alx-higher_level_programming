@@ -43,7 +43,7 @@ This project is about object instantiation in Python, variable aliasing and obje
 * **6. Is equal**
   * [6-answer.txt](./6-answer.txt): What do these 3 lines print?
 ```
->>> s1 = "Holberton"
+>>> s1 = "Best School""
 >>> s2 = s1
 >>> print(s1 == s2)
 ```
@@ -51,7 +51,7 @@ This project is about object instantiation in Python, variable aliasing and obje
 * **7. Is the same**
   * [7-answer.txt](./7-answer.txt): What do these 3 lines print?
 ```
->>> s1 = "Holberton"
+>>> s1 = "Best"
 >>> s2 = s1
 >>> print(s1 is s2)
 ```
@@ -59,16 +59,16 @@ This project is about object instantiation in Python, variable aliasing and obje
 * **8. Is really equal**
   * [8-answer.txt](./1-answer.txt): What do these 3 lines print?
 ```
->>> s1 = "Holberton"
->>> s2 = "Holberton"
+>>> s1 = "Best School"
+>>> s2 = "Best School"
 >>> print(s1 == s2)
 ```
 
 * **9. Is really the same**
   * [9-answer.txt](./9-answer.txt): What do these 3 lines print?
 ```
->>> s1 = "Holberton"
->>> s2 = "Holberton"
+>>> s1 = "Best School"
+>>> s2 = "Best School"
 >>> print(s1 is s2)
 ```
 
@@ -184,7 +184,7 @@ a = (1)
 a = (1, )
 ```
 
-* **24. Richard Sim's special #0**
+* **24. Who I am?**
   * [24-answer.txt](./24-answer.txt): What does this script print?
 ```
 a = (1)
@@ -192,7 +192,7 @@ b = (1)
 a is b
 ```
 
-* **25. Richard Sim's special #1**
+* **25. Tuple or not**
   * [25-answer.txt](./25-answer.txt): What does this script print?
 ```
 a = (1, 2)
@@ -200,7 +200,7 @@ b = (1, 2)
 a is b
 ```
 
-* **26. Richard Sim's special #2**
+* **26. Empty is not empty**
   * [26-answer.txt](./26-answer.txt): What does this script print?
 ```
 a = ()
@@ -208,7 +208,7 @@ b = ()
 a is b
 ```
 
-* **27. Richard Sim's special #3**
+* **27. Still the same?**
   * [27-answer.txt](./27-answer.txt): Will the last line of this script print `139926795932424`?
 ```
 >>> id(a)
@@ -219,7 +219,7 @@ a is b
 >>> id(a)
 ```
 
-* **28. Richard Sim's special #4**
+* **28. Same or not**
   * [28-answer.txt](./28-answer.txt): Will the last line of this script print `139926795932424`?
 ```
 >>> a
@@ -232,7 +232,7 @@ a is b
 
 * **29. #pythonic**
   * [100-magic_string.py](./100-magic_string.py): Python function `magic_string()` that returns the
-string `"Holberton"` n times the number of iteration.
+string `"Best School"` n times the number of iteration.
 
 * **30. Low memory cost**
   * [101-locked_class.py](./101-locked_class.py): Python class `LockedClass` with no attributes that
